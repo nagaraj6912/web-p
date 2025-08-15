@@ -1,3 +1,5 @@
+//fully functional coin flip game
+
 let x;
 function humanInput(){
     x=prompt("enter your move R,P,S")
